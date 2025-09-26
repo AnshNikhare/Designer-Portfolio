@@ -1,14 +1,32 @@
-# Portfolio Responsive Complete
-## [Watch it on youtube](https://youtu.be/AKNvTxWOdKw)
-### Portfolio Responsive Complete
+# 🌐 Ansh Nikhare – Portfolio
 
-- Responsive Personal Portfolio Website HTML CSS & JavaScript.
-- Contains animations when scrolling.
-- Smooth scrolling in each section.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+This is my personal **Web & Graphics Design Portfolio** showcasing my skills, projects, and experience as a **UI/UX Developer**.  
+It highlights my expertise in **Figma, Photoshop, Canva, UI/UX design, and modern front-end technologies like React**.
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
+## 🚀 Features
+- Responsive design for all devices  
+- Smooth scroll and animations (ScrollReveal.js)  
+- Skills section with interactive progress bars  
+- Portfolio/gallery of my design and web projects  
+- Contact form powered by EmailJS  
 
-![preview img](/preview.png)
+## 🛠️ Tech Stack
+- **Frontend:** HTML5, CSS3, JavaScript, React  
+- **Design Tools:** Figma, Photoshop, Canva  
+- **Animations:** ScrollReveal.js  
+- **Deployment:** GitHub Pages / Netlify  
 
+## 📂 Sections
+- **Home** – Introduction and social links  
+- **About** – Professional summary  
+- **Skills** – Development and design proficiencies  
+- **Work** – Showcase of my projects  
+- **Contact** – Contact form to reach me directly  
+
+## 📧 Contact
+- **Portfolio Website:** [Live Demo](https://your-portfolio-link.com)  
+- **LinkedIn:** [linkedin.com/in/anshnikhare](https://www.linkedin.com/in/anshnikhare)  
+- **GitHub:** [github.com/AnshNikhare](https://github.com/AnshNikhare)  
+- **Email:** yourname@email.com  
+
+---
