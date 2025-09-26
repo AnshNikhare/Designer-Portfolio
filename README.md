@@ -24,7 +24,7 @@ It highlights my expertise in **Figma, Photoshop, Canva, UI/UX design, and moder
 - **Contact** – Contact form to reach me directly  
 
 ## 📧 Contact
-- **Portfolio Website:** [Live Demo](https://your-portfolio-link.com)  
+- **Portfolio Website:** [Live Demo](https://your-portfolio-link.com](https://anshnikhare.github.io/Designer-Portfolio/))  
 - **LinkedIn:** [linkedin.com/in/anshnikhare](https://www.linkedin.com/in/anshnikhare)  
 - **GitHub:** [github.com/AnshNikhare](https://github.com/AnshNikhare)  
 - **Email:** yourname@email.com  
